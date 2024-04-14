@@ -1,0 +1,12 @@
+.about{
+  text-decoration: none !important;
+}
+
+.about:hover{
+  text-decoration: underline !important;
+}
+
+.hov-nav:hover{
+  color: #0000ff99 !important;
+  transition: 0.5s !important;
+}
